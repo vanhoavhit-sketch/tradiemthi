@@ -1,44 +1,128 @@
 <!DOCTYPE html>
-<html>
+<html lang="vi">
 <head>
 <meta charset="UTF-8">
-<title>Tra cứu trạm</title>
+<title>Tra cứu trạm MobiFone</title>
+
 <style>
-  body { font-family: Arial; text-align: center; }
-  input { padding: 10px; width: 250px; }
-  button { padding: 10px; }
-  .box { margin-top: 20px; }
+body {
+  font-family: Arial;
+  background: #f5f7fb;
+  text-align: center;
+}
+
+/* HEADER */
+.header {
+  background: #0066cc;
+  color: white;
+  padding: 15px;
+}
+
+.header img {
+  height: 40px;
+}
+
+/* SEARCH */
+.search-box {
+  margin: 30px;
+}
+
+input {
+  padding: 12px;
+  width: 280px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 12px 16px;
+  background: #e60023;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* RESULT */
+.card {
+  margin: 20px auto;
+  padding: 20px;
+  width: 320px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ddd;
+}
+
+.qr {
+  margin-top: 10px;
+}
 </style>
+
 </head>
+
 <body>
 
-<h2>Tra cứu trạm theo mã</h2>
+<div class="header">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/MobiFone_logo.svg">
+  <h2>TRA CỨU TRẠM</h2>
+</div>
 
-<input type="text" id="search" placeholder="Nhập mã trạm (VD: DLKP06)">
-<button onclick="tim()">Tra cứu</button>
+<div class="search-box">
+  <input id="search" placeholder="Nhập mã trạm (VD: DLKP06)">
+  <button onclick="tim()">Tra cứu</button>
+</div>
 
-<div class="box" id="result"></div>
+<div id="result"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 
 <script>
-async function tim(){
-  let key = document.getElementById("search").value.trim().toUpperCase();
+let data = [];
 
-  let res = await fetch("data.json");
-  let data = await res.json();
+fetch("data.json")
+  .then(res => res.json())
+  .then(json => data = json);
 
-  let found = data.find(x => x.site_id === key);
+function normalize(str){
+  return str.toLowerCase().replace(/\s+/g,'');
+}
+
+function tim(){
+  let key = normalize(document.getElementById("search").value);
+
+  let found = data.find(x =>
+    normalize(x.site_id).includes(key)
+  );
 
   if(found){
+    let url = window.location.origin + window.location.pathname + "?id=" + found.site_id;
+
     document.getElementById("result").innerHTML = `
-      <b>${found.ten_tram}</b><br><br>
-      Mã trạm: ${found.site_id}<br>
-      Ngày SD: ${found.ngay_sd}<br>
-      Đơn vị: ${found.don_vi}<br>
-      Trạng thái: ${found.canh_bao}
+      <div class="card">
+        <h3>${found.ten_tram}</h3>
+        <p><b>Mã:</b> ${found.site_id}</p>
+        <p><b>Đơn vị:</b> ${found.don_vi}</p>
+        <p><b>Ngày SD:</b> ${found.ngay_sd}</p>
+        <p><b>Trạng thái:</b> ${found.canh_bao}</p>
+
+        <div id="qrcode" class="qr"></div>
+      </div>
     `;
+
+    new QRCode(document.getElementById("qrcode"), url);
+
   } else {
     document.getElementById("result").innerHTML = "❌ Không tìm thấy!";
   }
+}
+
+/* AUTO LOAD QR LINK */
+const urlParams = new URLSearchParams(window.location.search);
+const id = urlParams.get('id');
+
+if(id){
+  document.getElementById("search").value = id;
+  setTimeout(tim, 300);
 }
 </script>
 
