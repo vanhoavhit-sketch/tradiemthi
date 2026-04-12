@@ -1,0 +1,4358 @@
+[
+  {
+    "site_id": "DLKP06",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP10",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH30",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT06",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT17",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG17",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG40",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK10",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK18",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH03",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD03",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD23",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD28",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB39",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG29",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1V",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT23",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2E",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH24",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK51",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG33",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK53",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES08",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP51",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP56",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT31",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT53",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT54",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH37",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK02",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA18",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT82",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG06",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK18",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD25",
+    "ngay_sd": "07/08/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG10",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK13",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN07",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA30",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA32",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG28",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2X",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK13",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH07",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH12",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT88",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK08",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA04",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK12",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA28",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2K",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN15",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK59",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT09",
+    "ngay_sd": "10/10/2019",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES07",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES25",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK03",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD11",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP74",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH10",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH29",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES22",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES04",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT15",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK32",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK09",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES23",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG57",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA36",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH15",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA26",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH27",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA09",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA39",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP06",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP08",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP07",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP04",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP03",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG32",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP02",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP09",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP10",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG22",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG14",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG16",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP11",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLRP12",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMCPA1(DLEH23)",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA24",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP25",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA34",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA38",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMCPA2(DLMD17)",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG31",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA19",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH02",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES13",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES20",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK40",
+    "ngay_sd": "01/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH11",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP13",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP26",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG01",
+    "ngay_sd": "01/01/2010",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK10",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP29",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP39",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK06",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD16",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH20",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH30",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD19",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD25",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK30",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT74",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK04",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD33",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD34",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG34",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG30",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK47",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH38",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH32",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH45",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP04",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD31",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK27",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD32",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP73",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH58",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN26",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK22",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT60",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN32",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN42",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN45",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK19",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH19",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH36",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN50",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN47",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP14",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB06",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD04",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2H",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP69",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN12",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1T",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH04",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2P",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP35",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP41",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD14",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD24",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK12",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP55",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP19",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT51",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP37",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK20",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK41",
+    "ngay_sd": "01/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT49",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT32",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT39",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP03",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK34",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK13",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1I",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP47",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT96",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP42",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP44",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD02",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD21",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH18",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH57",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT34",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP11",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH23",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH07",
+    "ngay_sd": "01/01/2010",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH22",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH46",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP02",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH09",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB22",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT02",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK04",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP61",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT50",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1P",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT11",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK16",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP48",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD36",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN35",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK14",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD22",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB11",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB04",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN31",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP64",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK33",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB19",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT47",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT90",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB35",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK57",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT67",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK14",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP72",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK22",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT94",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN28",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN44",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN06",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP24",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP63",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2V",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1N",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT83",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2Q",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK54",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP27",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT85",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT24",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP50",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT62",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2Z",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA33",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT86",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT19",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT89",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK58",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD35",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT97",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1F",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1J",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA31",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD07",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT63",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH40",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT10",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP12",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK08",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT40",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD37",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK10",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP52",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK04",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP28",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP66",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK24",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK02",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP34",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK52",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN04",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN24",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1B",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD33",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES29",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP40",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK15",
+    "ngay_sd": "01/01/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK12",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK43",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH20",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH22",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH24",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH25",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1K",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT37",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK15",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK25",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK27",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH35",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH50",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH55",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK26",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES10",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES09",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES16",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG06",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG04",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG09",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG13",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG21",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT21",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG19",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG17",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG20",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK15",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH06",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG24",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG25",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG26",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH14",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH18",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG27",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG30",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH16",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH19",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN09",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH99",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT12",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP17",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT22",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2T",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES28",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD28",
+    "ngay_sd": "nan",
+    "don_vi": "LIÊN K?T",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD29",
+    "ngay_sd": "07/08/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1E",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH41",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD27",
+    "ngay_sd": "07/08/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES02",
+    "ngay_sd": "04/04/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH43",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT69",
+    "ngay_sd": "01/01/2005",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD07",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2J",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD05",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES26",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT92",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2R",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT79",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK09",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN05",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG36",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH14",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH49",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES11",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN34",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH29",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH27",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG35",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG26",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG23",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG14",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH33",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBTMA01",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD12",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK37",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK32",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP18",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG46",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG37",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP08",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH34",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD10",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG51",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP54",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP33",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP22",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT99",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD34",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG02",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD24",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK17",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG11",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG27",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN29",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG22",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK07",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG18",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG16",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT75",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG53",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK50",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN13",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD13",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG15",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD26",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG28",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN36",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN20",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG44",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT57",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN21",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD29",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG21",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG56",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN37",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG10",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD15",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG25",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP45",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH31",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK17",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK36",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT41",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK09",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP01",
+    "ngay_sd": "10/10/2014",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2A",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN18",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH01",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT20",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG15",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK06",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT29",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN40",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN14",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB30",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB21",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH39",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH26",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN17",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK21",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA16",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH23",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT13",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP46",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH08",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD17",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK22",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG08",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK29",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP67",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK01",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK46",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH56",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP20",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH25",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP49",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA06",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK16",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB29",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK26",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA37",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN16",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH05",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA25",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK24",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT70",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA08",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH13",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG54",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH15",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK35",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK20",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK11",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT27",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB03",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN08",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH28",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH53",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK29",
+    "ngay_sd": "10/10/2014",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA22",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK28",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH21",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH44",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP43",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK11",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG39",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD12",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT66",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA23",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK28",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB38",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH52",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH01",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT84",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES19",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1Q",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG11",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT93",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH26",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK19",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK18",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN27",
+    "ngay_sd": "10/10/2014",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN25",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH31",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN48",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK07",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK23",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH09",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG09",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1G",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT03",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT25",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH13",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP31",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP30",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK44",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG43",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT78",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA12",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1D",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT36",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK20",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD27",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN46",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD10",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBHMA01",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK27",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT71",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH21",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH48",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK01",
+    "ngay_sd": "10/10/2014",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB31",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA01",
+    "ngay_sd": "03/06/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK25",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG12",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK14",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH06",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG02",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG36",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK03",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP65",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH32",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD05",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK07",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT44",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT72",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP38",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT65",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB36",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK11",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD31",
+    "ngay_sd": "07/08/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB13",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES24",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2F",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1R",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH02",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD30",
+    "ngay_sd": "07/08/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT16",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES27",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN19",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD20",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP57",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG13",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES21",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH28",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN43",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN41",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG05",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB34",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD09",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT48",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT42",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD03",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT35",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES17",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD21",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG03",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES15",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT98",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD06",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT18",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT45",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG29",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG19",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES31",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT55",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG42",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN23",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG31",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH54",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT87",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH11",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2M",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB40",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG32",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG55",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2B",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD15",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2S",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1H",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG33",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG12",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT61",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT52",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT58",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES18",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD08",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD01",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD13",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN11",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1C",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2L",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH12",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1S",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH17",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD02",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD17",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT73",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT07",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT80",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT01",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "VNPT",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH47",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT26",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT64",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT08",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT56",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA03",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG45",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES05",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP60",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK34",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK03",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG48",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP59",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP07",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH33",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK26",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2Y",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH08",
+    "ngay_sd": "10/10/2013",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBH03",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP68",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK19",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK16",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP36",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK31",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG18",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG20",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1M",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK25",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA29",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG07",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG52",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB14",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK23",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB37",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT30",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT46",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN02",
+    "ngay_sd": "07/05/2009",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT43",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP09",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD32",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG50",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT04",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG41",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG35",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP32",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP71",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK33",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG24",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH17",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH51",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP21",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT68",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK23",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT1X",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD20",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP16",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN38",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH10",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG38",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP15",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES06",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP58",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN10",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK49",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK02",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2D",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT76",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT05",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN03",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG23",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK21",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT95",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK35",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP62",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK08",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK06",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB33",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG08",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT59",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK38",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK05",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCK31",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP70",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD30",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK30",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2C",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT81",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB24",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG47",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK39",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT2N",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEH42",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG04",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD18",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD22",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK55",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES12",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB01",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK42",
+    "ngay_sd": "01/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK48",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT14",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD11",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD04",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLEK56",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG07",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKN49",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLES03",
+    "ngay_sd": "09/08/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK24",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT33",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA05",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLLK17",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD16",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA17",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKG03",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP53",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLCG49",
+    "ngay_sd": "06/01/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT38",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD14",
+    "ngay_sd": "02/07/2010",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD26",
+    "ngay_sd": "07/08/2017",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKA35",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD23",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB20",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKB02",
+    "ngay_sd": "01/01/2015",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLKP23",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT91",
+    "ngay_sd": "08/09/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLMD08",
+    "ngay_sd": "07/04/2016",
+    "don_vi": "MOBIFONE",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBD09",
+    "ngay_sd": "Không có d? li?u",
+    "don_vi": "Không có d? li?u",
+    "canh_bao": "Cảnh báo ngoài"
+  },
+  {
+    "site_id": "DLBT28",
+    "ngay_sd": "01/01/2008",
+    "don_vi": "XÃ H?I HÓA",
+    "canh_bao": "Cảnh báo ngoài"
+  }
+]
