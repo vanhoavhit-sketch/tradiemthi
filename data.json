@@ -1,0 +1,296 @@
+[
+  {
+    "site_id": "DLES01",
+    "ten_tram": "DLKESP01",
+    "dia_chi": "B?u ?i?n Ea Súp, TT Ea Súp, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES02",
+    "ten_tram": "DLKERK01",
+    "dia_chi": "Thôn 9, xã Ea Roc, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES03",
+    "ten_tram": "DLKERK02",
+    "dia_chi": "Thôn 3, xã C? Kbang, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES04",
+    "ten_tram": "DLKESP02",
+    "dia_chi": "Thôn 3, xã Ea Le, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES05",
+    "ten_tram": "DLKESP05",
+    "dia_chi": "Nhà ông Hà V?n Phúc, thôn 6, Xã CuMlan, H. Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES06",
+    "ten_tram": "DLKESP03",
+    "dia_chi": "thôn 17, xã Ea Le, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES07",
+    "ten_tram": "DLKERK03",
+    "dia_chi": "UBND Xã Ia Zl?i, thôn 6, xã Ia Zl?i, huy?n EaSúp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES08",
+    "ten_tram": "DLKIRE02",
+    "dia_chi": "Nhà ông Châu ??, ??i 6, thôn 12, Xã Iarve, H. Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES09",
+    "ten_tram": "DLKILP03",
+    "dia_chi": "Trung ?oàn 725, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES10",
+    "ten_tram": "DLKILP04",
+    "dia_chi": "Trung ?oàn 736, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES11",
+    "ten_tram": "DLKIRE05",
+    "dia_chi": "Trung ?oàn 737, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES12",
+    "ten_tram": "DLKIRE01",
+    "dia_chi": "Trung ?oàn 739, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES13",
+    "ten_tram": "DLKEBG01",
+    "dia_chi": "Thôn 13, xã Ya Tmot, H. Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES15",
+    "ten_tram": "DLKESP06",
+    "dia_chi": "thôn 7, xã C? M''lan, huy?n Ea Súp",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES16",
+    "ten_tram": "DLKILP02",
+    "dia_chi": "Thôn Chi?ng, xã Ia L?p, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES17",
+    "ten_tram": "DLKIRE03",
+    "dia_chi": "Thôn 5, xã Ia Rvê, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES18",
+    "ten_tram": "DLKESP07",
+    "dia_chi": "Thôn 13, xã Ea Le, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES19",
+    "ten_tram": "DLKESP08",
+    "dia_chi": "Tr?m Viettel DLK0230 xã C? Mlan, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES20",
+    "ten_tram": "DLKEBG02",
+    "dia_chi": "Thôn 7 , xã Ya t? M?t, H. Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES21",
+    "ten_tram": "DLKESP09",
+    "dia_chi": "Thôn 1 , xã C? M''lan, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES22",
+    "ten_tram": "DLKESP10",
+    "dia_chi": "Thôn 9, xã Ea Lê, hu?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES23",
+    "ten_tram": "DLKERK04",
+    "dia_chi": "Thôn 11, xã Ea Rôk, huy?n Ea Súp, th?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES24",
+    "ten_tram": "DLKESP11",
+    "dia_chi": "Thôn 14, xã Ea Lê, huy?n Easup, T?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES25",
+    "ten_tram": "DLKESP12",
+    "dia_chi": "Thôn 15, xã Ea Lê, huy?n Easup,, T?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES26",
+    "ten_tram": "DLKERK05",
+    "dia_chi": "Thôn 16, xã C? K''Bang, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES27",
+    "ten_tram": "DLKEBG03",
+    "dia_chi": "Thôn 10, xã Ea Bung, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES28",
+    "ten_tram": "DLKESP13",
+    "dia_chi": "Thôn 10, th? tr?n Ea Súp, huy?n Ea Sup, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES29",
+    "ten_tram": "DLKESP14",
+    "dia_chi": "Thôn 7, th? tr?n Ea Súp, huy?n Ea Sup, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES30",
+    "ten_tram": "DLKERK06",
+    "dia_chi": "Tr?m Viettel DLK0295, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES31",
+    "ten_tram": "DLKIRE04",
+    "dia_chi": "Thôn 20, Xã Ea R?k, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES50",
+    "ten_tram": "DLKILP01",
+    "dia_chi": "Thôn ?oàn, xã Ia L?p, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES51",
+    "ten_tram": "DLKERK07",
+    "dia_chi": "Thôn 6, xã C? Kbang, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "DLES52",
+    "ten_tram": "DLKIRE06",
+    "dia_chi": "Thôn 11, xã Ia Rvê, huy?n Ea Súp, t?nh ??k L?k",
+    "don_vi": "Nguy?n V?n Hòa"
+  },
+  {
+    "site_id": "MBF_DLES32",
+    "ten_tram": "DLKESP6A",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES33",
+    "ten_tram": "DLKIRE6A",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES34",
+    "ten_tram": "DLKILP6A",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES35",
+    "ten_tram": "DLKILP6B",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES36",
+    "ten_tram": "DLKILP6C",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES37",
+    "ten_tram": "DLKERK6A",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES38",
+    "ten_tram": "DLKERK6B",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES39",
+    "ten_tram": "DLKERK6C",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES40",
+    "ten_tram": "DLKIRE6B",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES41",
+    "ten_tram": "DLKEBG6A",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES42",
+    "ten_tram": "DLKEBG6B",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES53",
+    "ten_tram": "DLKIRE6C",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES54",
+    "ten_tram": "DLKESP6B",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES55",
+    "ten_tram": "DLKIRE6D",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES61",
+    "ten_tram": "DLKERK6D",
+    "dia_chi": "",
+    "don_vi": ""
+  },
+  {
+    "site_id": "MBF_DLES65",
+    "ten_tram": "DLKIRE6E",
+    "dia_chi": "",
+    "don_vi": ""
+  }
+]
