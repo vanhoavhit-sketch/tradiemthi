@@ -1,0 +1,394 @@
+[
+  {
+    "Sitename":"DLES01",
+    "Sitename m?i":"DLKESP01",
+    "??a ch?":"B?u ?i?n Ea Súp, TT Ea Súp, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES02",
+    "Sitename m?i":"DLKERK01",
+    "??a ch?":"Thôn 9, xã Ea Roc, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES03",
+    "Sitename m?i":"DLKERK02",
+    "??a ch?":"Thôn 3, xã C? Kbang, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES04",
+    "Sitename m?i":"DLKESP02",
+    "??a ch?":"Thôn 3, xã Ea Le, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES05",
+    "Sitename m?i":"DLKESP05",
+    "??a ch?":"Nhà ông Hà V?n Phúc, thôn 6, Xã CuMlan, H. Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES06",
+    "Sitename m?i":"DLKESP03",
+    "??a ch?":"thôn 17, xã Ea Le, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES07",
+    "Sitename m?i":"DLKERK03",
+    "??a ch?":"UBND Xã Ia Zl?i, thôn 6, xã Ia Zl?i, huy?n EaSúp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES08",
+    "Sitename m?i":"DLKIRE02",
+    "??a ch?":"Nhà ông Châu ??, ??i 6, thôn 12, Xã Iarve, H. Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES09",
+    "Sitename m?i":"DLKILP03",
+    "??a ch?":"Trung ?oàn 725, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES10",
+    "Sitename m?i":"DLKILP04",
+    "??a ch?":"Trung ?oàn 736, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES11",
+    "Sitename m?i":"DLKIRE05",
+    "??a ch?":"Trung ?oàn 737, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES12",
+    "Sitename m?i":"DLKIRE01",
+    "??a ch?":"Trung ?oàn 739, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES13",
+    "Sitename m?i":"DLKEBG01",
+    "??a ch?":"Thôn 13, xã Ya Tmot, H. Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"CRAN",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES15",
+    "Sitename m?i":"DLKESP06",
+    "??a ch?":"thôn 7, xã C? M''lan, huy?n Ea Súp",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES16",
+    "Sitename m?i":"DLKILP02",
+    "??a ch?":"Thôn Chi?ng, xã Ia L?p, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES17",
+    "Sitename m?i":"DLKIRE03",
+    "??a ch?":"Thôn 5, xã Ia Rvê, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES18",
+    "Sitename m?i":"DLKESP07",
+    "??a ch?":"Thôn 13, xã Ea Le, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES19",
+    "Sitename m?i":"DLKESP08",
+    "??a ch?":"Tr?m Viettel DLK0230 xã C? Mlan, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES20",
+    "Sitename m?i":"DLKEBG02",
+    "??a ch?":"Thôn 7 , xã Ya t? M?t, H. Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES21",
+    "Sitename m?i":"DLKESP09",
+    "??a ch?":"Thôn 1 , xã C? M''lan, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES22",
+    "Sitename m?i":"DLKESP10",
+    "??a ch?":"Thôn 9, xã Ea Lê, hu?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"CRAN",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES23",
+    "Sitename m?i":"DLKERK04",
+    "??a ch?":"Thôn 11, xã Ea Rôk, huy?n Ea Súp, th?nh ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"CRAN",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES24",
+    "Sitename m?i":"DLKESP11",
+    "??a ch?":"Thôn 14, xã Ea Lê, huy?n Easup, T?nh ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES25",
+    "Sitename m?i":"DLKESP12",
+    "??a ch?":"Thôn 15, xã Ea Lê, huy?n Easup,, T?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES26",
+    "Sitename m?i":"DLKERK05",
+    "??a ch?":"Thôn 16, xã C? K''Bang, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES27",
+    "Sitename m?i":"DLKEBG03",
+    "??a ch?":"Thôn 10, xã Ea Bung, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"CRAN",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES28",
+    "Sitename m?i":"DLKESP13",
+    "??a ch?":"Thôn 10, th? tr?n Ea Súp, huy?n Ea Sup, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES29",
+    "Sitename m?i":"DLKESP14",
+    "??a ch?":"Thôn 7, th? tr?n Ea Súp, huy?n Ea Sup, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"CRAN",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES30",
+    "Sitename m?i":"DLKERK06",
+    "??a ch?":"Tr?m Viettel DLK0295, xã Iarve, huy?n Ea Súp, ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES31",
+    "Sitename m?i":"DLKIRE04",
+    "??a ch?":"Thôn 20, Xã Ea R?k, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES50",
+    "Sitename m?i":"DLKILP01",
+    "??a ch?":"Thôn ?oàn, xã Ia L?p, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES51",
+    "Sitename m?i":"DLKERK07",
+    "??a ch?":"Thôn 6, xã C? Kbang, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT2",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"DLES52",
+    "Sitename m?i":"DLKIRE06",
+    "??a ch?":"Thôn 11, xã Ia Rvê, huy?n Ea Súp, t?nh ??k L?k",
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"Macro",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES32",
+    "Sitename m?i":"DLKESP6A",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES33",
+    "Sitename m?i":"DLKIRE6A",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES34",
+    "Sitename m?i":"DLKILP6A",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES35",
+    "Sitename m?i":"DLKILP6B",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES36",
+    "Sitename m?i":"DLKILP6C",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES37",
+    "Sitename m?i":"DLKERK6A",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES38",
+    "Sitename m?i":"DLKERK6B",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES39",
+    "Sitename m?i":"DLKERK6C",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES40",
+    "Sitename m?i":"DLKIRE6B",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES41",
+    "Sitename m?i":"DLKEBG6A",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES42",
+    "Sitename m?i":"DLKEBG6B",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES53",
+    "Sitename m?i":"DLKIRE6C",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES54",
+    "Sitename m?i":"DLKESP6B",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES55",
+    "Sitename m?i":"DLKIRE6D",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES61",
+    "Sitename m?i":"DLKERK6D",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  },
+  {
+    "Sitename":"MBF_DLES65",
+    "Sitename m?i":"DLKIRE6E",
+    "??a ch?":null,
+    "Lo?i Tr?m":"UT3",
+    "Lo?i c? s? h? t?ng":"MORAN VNPT Host",
+    "NVQL":"Nguy?n V?n Hòa"
+  }
+]
